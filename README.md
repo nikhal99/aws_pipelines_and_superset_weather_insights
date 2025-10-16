@@ -1,6 +1,5 @@
 # AWS Pipelines & Superset Weather Insights  
 ```sh
-BY: Varun Sharma
 ```
 A dynamic weather dashboard showcasing comprehensive information on rainfall, humidity, and air quality for various states in the country.
 - Designed and implemented a dynamic weather dashboard showcasing comprehensive information on rainfall,humidity, and air quality for various states in the country.
